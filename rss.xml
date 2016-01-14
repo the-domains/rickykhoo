@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[RickyKhoo]]></title>
         <description><![CDATA[RickyKhoo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rickykhoo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 16:56:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 16:59:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rickykhoo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedd05f78c9-82b7-450d-bb8b-2e29b0fd9ea2/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be398100-9cd4-47e0-8b1e-6f90c3503d2e.jpg">]]></description>
+            <link>https://thegrid.ai/rickykhoo/d05f78c9-82b7-450d-bb8b-2e29b0fd9ea2/index.html</link>
             <guid isPermaLink="false">d05f78c9-82b7-450d-bb8b-2e29b0fd9ea2</guid>
-            <pubDate>Thu, 14 Jan 2016 16:56:13 GMT</pubDate>
+            <pubDate>Thu, 14 Jan 2016 16:59:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
