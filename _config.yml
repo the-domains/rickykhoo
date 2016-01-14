@@ -1,0 +1,28 @@
+name: RickyKhoo
+favicon: null
+layout_spectrum: 0.18505400838330388
+typography_spectrum: 0.35985985212028027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5545089382212609
+  lightness: 0.559141406789422
+  saturation: 0.09703441895544529
+  rhythmicContrast: 0.19677748437970877
+purpose: []
